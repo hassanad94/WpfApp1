@@ -16,9 +16,9 @@ namespace WpfApp1
         public MainViewModel() {
             LanguageList = new ObservableCollection<Planguage>
             {
-                new Planguage{ Name="Java",Territory="backend", Status=90 },
-                new Planguage {Name="HTML",Territory="frontend",Status=60},
-                new Planguage{Name="Android",Territory="Mobil",Status=80}
+                new Planguage{ Name="C#",Territory="backend", Status=90 },
+                new Planguage {Name="Php",Territory="frontend",Status=60},
+                new Planguage{Name="Android",Territory="Mobil",Status=50}
 
             };
 

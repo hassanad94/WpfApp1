@@ -52,5 +52,11 @@ namespace WpfApp1
 
 
         }
+
+        private void Predict_Click(object sender, RoutedEventArgs e)
+        {
+          
+
+        }
     }
 }

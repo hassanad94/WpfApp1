@@ -19,6 +19,7 @@
         </ListBox>
         <Button Click="Add_Click" Content="Add" HorizontalAlignment="Left" Margin="95,289,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Click="Modify_Click" Content="Modify" HorizontalAlignment="Left" Margin="239,289,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="Predict_Click" Content="Becslés" HorizontalAlignment="Left" Margin="372,40,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>

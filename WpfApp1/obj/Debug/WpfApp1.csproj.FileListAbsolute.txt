@@ -15,3 +15,5 @@ C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
 C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\PlanguageView.g.cs
 C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\PlanguageView.baml
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\PredictView.g.cs
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\PredictView.baml
