@@ -7,6 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <ListBox SelectedItem="{Binding SelectedPlanguage}" ItemsSource="{Binding LanguageList,UpdateSourceTrigger=PropertyChanged}"  HorizontalAlignment="Left" Height="262" Margin="133,10,0,0" VerticalAlignment="Top" Width="155">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Label Content="{Binding Name,UpdateSourceTrigger=PropertyChanged}" />
+                        <Label Content="{Binding Status,UpdateSourceTrigger=PropertyChanged}" ContentStringFormat="0 %"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Click="Add_Click" Content="Add" HorizontalAlignment="Left" Margin="95,289,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="Modify_Click" Content="Modify" HorizontalAlignment="Left" Margin="239,289,0,0" VerticalAlignment="Top" Width="75"/>
+
     </Grid>
 </Window>

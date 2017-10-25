@@ -1,0 +1,17 @@
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\PlanguageView.g.cs
+C:\Users\tanulo14\Documents\modulzaro\WpfApp1\WpfApp1\obj\Debug\PlanguageView.baml
